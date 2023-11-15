@@ -6,7 +6,7 @@ Amo tecnologia e o que podemos utilizar dela para auxiliar a vida das pessoas no
 - 🌱 Atualmente estou estudando  C# e .NET 
 - 😄 Pronomes: ela/dela
 ## 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinavf&layout=compact)](https://github.com/sabrinavf/github-readme-stats)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinavf&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinavf&show_icons=true&theme=dracula)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrinavf/sabrinavf/output/github-contribution-grid-snake-dark.svg">
